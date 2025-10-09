@@ -15,7 +15,7 @@ const roles = [
 ];
 
 const resumeDownloadLink =
-	"https://drive.google.com/uc?export=download&id=1SzKV8H49vB19ryfYkzXRv5JJYlObCk2T";
+	"https://drive.google.com/uc?export=download&id=1Bz0ZNt0JL3dw8L3sq6G-4zbWqiSpbjq2";
 
 export default function HeroSection() {
 	const [currentRole, setCurrentRole] = useState(0);
