@@ -39,9 +39,10 @@ const projectsData = [
 		longDescription:
 			"Memora revolutionizes how you capture and organize thoughts with smart categorization, AI-powered search, and intuitive note management.",
 		image: "/memora-landing.png",
-		liveUrl: "#",
-		githubUrl: "#",
-		videoUrl: "#",
+		liveUrl: "https://canvora.asxcode.com/",
+		githubUrl: "https://github.com/whoisasx/Canvora",
+		videoUrl:
+			"https://drive.google.com/drive/folders/1UxzVuCUG1splLlnwQIaum76nqmF184hL?usp=sharing",
 		tech: [
 			"React",
 			"Node.js",
