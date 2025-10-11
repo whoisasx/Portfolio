@@ -90,14 +90,14 @@ export default function Footer() {
 										href="mailto:adil@example.com"
 										className="hover:text-canvora-400 transition-colors"
 									>
-										adil.business@gmail.com
+										adil.business4064@gmail.com
 									</a>
 								</div>
 							</div>
 
 							{/* CTA Button */}
 							<motion.a
-								href="mailto:adil.business@gmail.com"
+								href="mailto:adil.business4064@gmail.com"
 								whileHover={{ scale: 1.05 }}
 								whileTap={{ scale: 0.95 }}
 								className="inline-flex items-center gap-2 bg-canvora-600 hover:bg-canvora-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-300"
